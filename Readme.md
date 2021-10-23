@@ -54,4 +54,4 @@
 - 이외에 F-measure, G 수치 값, 해석력, 효율성, 안정성을 통해 모델을 평가한다
  
  ### NOTION https://polyester-trip-9ae.notion.site/419d44a859b04385841272fb218cc0e6
- ### 21/10/20 ADD https://polyester-trip-9ae.notion.site/4e6f255990ca4d9b91e94741f29a93bf (LAST UPDATE 21/10/21)
+ ### 21/10/20 ADD https://polyester-trip-9ae.notion.site/4e6f255990ca4d9b91e94741f29a93bf (LAST UPDATE 21/10/22)
