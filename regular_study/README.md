@@ -7,4 +7,4 @@
 |2  |'21.10.25 |XOR and other problems        |석영     |-
 |   |          |Overview on machine learning and deep learning |영현 |-
 |3  |'21.11.01 |data analysis, prods certi        |경진     |-
-
+|4  |'21.11.08 |Convolutional Networks        |석영     |-
