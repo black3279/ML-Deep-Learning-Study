@@ -8,3 +8,5 @@
 |   |          |Overview on machine learning and deep learning |영현 |-
 |3  |'21.11.01 |data analysis, prods certi        |경진     |-
 |4  |'21.11.08 |Convolutional Networks        |석영     |-
+|5  |'21.11.15 |more research & Planning        |석영 + 경진, 영현 |-
+|6  |'21.11.22 |Review on AlexNet        |석영     |-
