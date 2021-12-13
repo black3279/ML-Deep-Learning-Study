@@ -11,3 +11,5 @@
 |5  |'21.11.15 |more research & Planning        |석영 + 경진, 영현 |-
 |6  |'21.11.22 |Review on AlexNet        |석영     |-
 |7  |'21.11.29 |딥러닝 개요 및 캐글 소개        |경진, 영현     |-
+|8  |'21.12.06 |Review on AlexNe2, Titanic Problem  |경진, 석영     |-
+|7  |'21.12.13 |Preprocessing, Titanic Problem2   |경진, 석영     |-
