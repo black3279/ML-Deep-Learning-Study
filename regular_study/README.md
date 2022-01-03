@@ -14,3 +14,4 @@
 |8  |'21.12.06 |Review on AlexNe2, Titanic Problem  |경진, 석영     |-
 |7  |'21.12.13 |Preprocessing, Titanic Problem2   |경진, 석영     |-
 |8  |'21.12.20 |강화학습   |영현     |-
+|9  |'22.01.03 |kaggle Titanic   |경진, 석영     |-
